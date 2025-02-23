@@ -1,0 +1,55 @@
+Customer_ID,Product_Category,Purchase_Amount,Timestamp,title,price,rating,Product_Category
+C042,Toys,86.08,2024-09-17 13:02:00,"Despicable Me 4 The Ultimate Fart Blaster, Blasts out REAL Fart Rings of fog,  Lights, Sounds, Smells, Ages 4+",24.84,4.5 stars out of 773 reviews,Toys
+C053,Toys,187.68,2024-12-03 05:51:00,Ms. Rachel Official Basic 11-Inch Cuddle & Comfort Plush Doll for Ages 6 Months to 3+,14.97,4.4 stars out of 163 reviews,Toys
+C009,Toys,182.05,2024-04-06 10:34:00,"Barbie Dreamhouse Pool Party Doll House and Playset with 75+ Pieces, 45 in",125.0,4.7 stars out of 3864 reviews,Toys
+C042,Toys,132.21,2024-01-26 16:20:00,"Barbie Doll DreamCamper Van Playset with Pets, Pool, Slide & Accessories, Toys For Ages 3 Years Old & up",59.99,4.8 stars out of 2593 reviews,Toys
+C009,Toys,79.44,2024-11-16 11:55:00,"Connect 4 Classic Grid Strategy 4 in a Row Kids Board Game, Family Games for 2 Players, Christmas Gifts for Kids, Ages 6+",9.97,4.8 stars out of 3516 reviews,Toys
+C006,Toys,245.7,2024-10-24 10:59:00,"Disney Stitch Crack Me Up Stitch 11-inch Plush with Sounds and Motion, Wiggles, Giggles, and Laughs",10.0,4.9 stars out of 83 reviews,Toys
+C020,Home Appliances,16.03,2024-07-24 13:34:00,"Ionvac Stain Lifter Portable Carpet and Upholstery Vacuum Cleaner, Gray",66.99,4.3 stars out of 1051 reviews,Home Appliances
+C023,Home Appliances,55.06,2024-04-17 10:53:00,"Beautiful 3 Qt Air Fryer with TurboCrisp Technology, White Icing by Drew Barrymore",39.96,4.8 stars out of 10087 reviews,Home Appliances
+C031,Home Appliances,316.97,2024-07-11 21:47:00,Prettycare Cordless Stick Vacuum Cleaner Lightweight Upright for Carpet Hard Floor Pet Hair W200,64.98,3.8 stars out of 22125 reviews,Home Appliances
+C052,Home Appliances,259.4,2024-03-03 05:00:00,"Eureka AirSpeed Upright Carpet Vacuum Cleaner, NEU100, Green & Black, New",49.88,4.3 stars out of 13251 reviews,Home Appliances
+C052,Home Appliances,73.77,2024-10-16 12:51:00,"Dirt Devil 3-in-1 Lightweight Corded Stick and Handheld Multi-Surface Vacuum EV1426CS, New",15.0,3.8 stars out of 2350 reviews,Home Appliances
+C036,Home Appliances,90.86,2024-09-10 04:58:00,"Crock-Pot® 4-Quart Classic Slow Cooker, Black",19.96,4.6 stars out of 6895 reviews,Home Appliances
+C021,Home Appliances,373.31,2024-04-30 22:07:00,"Beautiful 1.7-Liter Electric Kettle 1500 W with One-Touch Activation, Black Sesame by Drew Barrymore",39.96,4.6 stars out of 4607 reviews,Home Appliances
+C047,Home Appliances,385.21,2024-10-09 23:36:00,"Magic Bullet 4 Piece Personal Blender MBR-0401WM, Black",19.97,4.2 stars out of 2853 reviews,Home Appliances
+C032,Home Appliances,432.11,2024-01-09 14:44:00,"Dirt Devil 3-in-1 Lightweight Corded Stick and Handheld Multi-Surface Vacuum EV1426CS, New",15.0,3.8 stars out of 2350 reviews,Home Appliances
+C034,Home Appliances,157.68,2024-01-12 12:46:00,"Ionvac Stain Lifter Portable Carpet and Upholstery Vacuum Cleaner, Gray",66.99,4.3 stars out of 1051 reviews,Home Appliances
+C020,Home Appliances,122.95,2024-10-08 06:28:00,"Beautiful 3 Qt Air Fryer with TurboCrisp Technology, White Icing by Drew Barrymore",39.96,4.8 stars out of 10087 reviews,Home Appliances
+C035,Home Appliances,215.84,2024-12-07 07:49:00,Prettycare Cordless Stick Vacuum Cleaner Lightweight Upright for Carpet Hard Floor Pet Hair W200,64.98,3.8 stars out of 22125 reviews,Home Appliances
+C006,Sports,133.91,2024-02-12 00:52:00,"Wilson NCAA Red Zone Composite Football, Official Size (Ages 14 and up)",14.97,4.5 stars out of 404 reviews,Sports
+C010,Sports,441.33,2024-02-04 05:49:00,NERF Spacelace Football,23.95,5 stars out of 1 review,Sports
+C017,Sports,12.02,2024-01-13 13:02:00,"Wilson NFL Prestige Composite Football, Junior Size (Ages 9-12)",10.0,4.7 stars out of 276 reviews,Sports
+C017,Sports,91.92,2024-04-20 09:09:00,"Athletic Works Soccer Kick Trainer for Athletes of All Ages and Skill Levels, Black, Unisex",7.97,4.6 stars out of 26 reviews,Sports
+C013,Sports,196.11,2024-12-08 09:34:00,"Wave Runner Glow in The Dark Football, Orange, 10.35 in",39.99,2.3 stars out of 4 reviews,Sports
+C025,Sports,223.72,2024-04-15 16:06:00,Reebok Delta Cushion Rubber American Football (Varsity),14.88,4.7 stars out of 27 reviews,Sports
+C040,Sports,150.12,2024-03-18 20:55:00,Champion Sports Rhino Skin® Super Squeeze Football Set,83.99,1 star out of 1 review,Sports
+C030,Sports,264.86,2024-06-18 20:25:00,"Cipton Football, LED Light Up Football, Official Size Football, Great for Night Time Games, Perfect for Football Games and Flag Football, Kids Football, Great Gift",14.99,4.2 stars out of 140 reviews,Sports
+C038,Sports,279.13,2024-07-04 00:36:00,"Nerf Pro Grip Classic Foam Football, Easy to Catch and Throw, Indoor Outdoor",,4.5 stars out of 181 reviews,Sports
+C058,Sports,248.79,2024-03-12 15:11:00,"Wilson NCAA Red Zone Composite Football, Official Size (Ages 14 and up)",14.97,4.5 stars out of 404 reviews,Sports
+C004,Sports,313.14,2024-09-13 14:16:00,NERF Spacelace Football,23.95,5 stars out of 1 review,Sports
+C045,Sports,267.7,2024-05-26 21:12:00,"Wilson NFL Prestige Composite Football, Junior Size (Ages 9-12)",10.0,4.7 stars out of 276 reviews,Sports
+C027,Sports,88.59,2024-07-11 12:25:00,"Athletic Works Soccer Kick Trainer for Athletes of All Ages and Skill Levels, Black, Unisex",7.97,4.6 stars out of 26 reviews,Sports
+C059,Electronics,416.18,2024-09-01 19:29:00,"Apple AirTag - 1 Pack, Item Tracker with Apple Find My",24.0,4.6 stars out of 1708 reviews,Electronics
+C021,Electronics,254.09,2024-05-30 21:23:00,"Dirt Devil Smart Robot Vacuum with Real-Time Mapping Intelligent Navigation, Wi-Fi Enabled",99.0,4.2 stars out of 404 reviews,Electronics
+C016,Electronics,444.27,2024-09-23 13:26:00,HP Stream 14 inch Windows Laptop Intel Processor N4120 4GB RAM 64GB eMMC Pink (12-mo. Microsoft 365 included),190.0,4.1 stars out of 14215 reviews,Electronics
+C043,Electronics,150.98,2024-01-30 00:54:00,"onn. 8"" Kids Tablet, 32GB, (2024 Model) - Aqua",89.0,4.5 stars out of 453 reviews,Electronics
+C047,Electronics,417.01,2024-03-21 05:18:00,"AT&T Samsung Galaxy A14 5G, 64GB Black - Prepaid Smartphone",69.88,3.7 stars out of 1345 reviews,Electronics
+C035,Books,277.85,2024-06-11 15:43:00,"Classic Seuss How the Grinch Stole Christmas!, (Hardcover)",12.09,4.8 stars out of 81 reviews,Books
+C032,Books,443.43,2024-04-27 19:22:00,Hot Mess (Hardcover),9.56,4.8 stars out of 68 reviews,Books
+C022,Books,90.0,2024-10-27 00:30:00,Alex Hirsch: The Book of Bill (Hardcover),18.88,4.6 stars out of 106 reviews,Books
+C004,Books,254.35,2024-01-19 17:30:00,Janet Evanovich Stephanie Plum Now or Never (Series #31) (Hardcover),14.99,4.6 stars out of 44 reviews,Books
+C031,Books,159.24,2024-07-08 12:37:00,Rebecca Yarros: Fourth Wing (Paperback),10.65,4.4 stars out of 122 reviews,Books
+C028,Books,201.35,2024-08-08 15:46:00,The House of Cross (Walmart Exclusive),20.98,5 stars out of 8 reviews,Books
+C014,Books,439.48,2024-08-05 02:15:00,Wicked [Movie Tie-In]: The Life and Times of the Wicked Witch of the West (Paperback),9.99,4.9 stars out of 91 reviews,Books
+C035,Books,89.14,2024-05-16 12:17:00,Nicholas Sparks: Counting Miracles: A Novel (Hardcover),14.0,4.9 stars out of 71 reviews,Books
+C013,Books,195.05,2024-09-01 18:13:00,Big Jim Begins (Hardcover),10.49,4.9 stars out of 56 reviews,Books
+C056,Books,378.27,2024-10-16 05:16:00,"Classic Seuss How the Grinch Stole Christmas!, (Hardcover)",12.09,4.8 stars out of 81 reviews,Books
+C048,Clothing,395.08,2024-08-16 22:26:00,U.S. Polo Assn. Men's Popover Hoodie,16.98,4.8 stars out of 123 reviews,Clothing
+C049,Clothing,11.67,2024-07-03 03:58:00,"George Men's & Big Men's 2-Pack Flannel Shirt with Long Sleeves, Sizes XS-3XLT",14.98,4.6 stars out of 7121 reviews,Clothing
+C016,Clothing,459.24,2024-07-12 17:08:00,"DARESAY Dri-Fit Long Sleeve T Shirts for Men-4 Pack- Moisture Wicking, Quick Dry Tees (Up to 3XL)",31.5,4.4 stars out of 667 reviews,Clothing
+C056,Clothing,196.6,2024-10-23 16:18:00,U.S. Polo Assn. Men's Popover Hoodie,16.98,4.8 stars out of 123 reviews,Clothing
+C010,Clothing,481.12,2024-10-02 04:32:00,"Free Assembly Women’s and Women 's Plus Welt Pocket Cardigan Sweater, Lightweight, Sizes XS-4X",19.99,4.7 stars out of 218 reviews,Clothing
+C030,Clothing,437.42,2024-01-10 06:47:00,"Gildan Adult Short Sleeve Crew T-Shirt for Crafting - White, Adult Sizes S - 2XL, Cotton, Classic Fit, 12-Pack Blank Tee",27.48,4.4 stars out of 1566 reviews,Clothing
+C024,Clothing,249.3,2024-02-18 09:28:00,"George Men's 5-Pack Crewneck Tee with Short Sleeves, Sizes XS-3XL",14.98,4.7 stars out of 4348 reviews,Clothing
+C011,Clothing,226.57,2024-04-26 01:18:00,"Sofia Jeans Women's Sofia Oversized Boyfriend Shirt with Long Sleeves, Sizes XS-XXXL",29.0,4.6 stars out of 360 reviews,Clothing
